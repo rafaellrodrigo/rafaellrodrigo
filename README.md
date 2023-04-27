@@ -16,7 +16,7 @@ Eu sou Rafael Rodrigo, sou um Programador Front End, atualmente estou aprendendo
   <img align="left" src="https://cdn.icon-icons.com/icons2/3005/PNG/512/instagram_icon_188214.png" width="22px" alt="instagram-logo" />
 <a/>
   
-<a href="https://www.linkedin.com/in/rafael-rodrigo-inoc%C3%AAncio-a0b19869/" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-rodrigo-inoc%C3%AAncio-a0b19869/" target=_blank>
   <img src="https://cdn.icon-icons.com/icons2/622/PNG/512/linkedin-logo_icon-icons.com_57120.png" width="22px" alt="linkedin-logo" />
 <a/>
 <br>
