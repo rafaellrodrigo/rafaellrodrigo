@@ -13,7 +13,7 @@ Eu sou Rafael Rodrigo, sou um Programador Front End, atualmente estou aprendendo
 ### conecte-se comigo
   
 <a href="">
-  <img align="left" src="https://cdn.icon-icons.com/icons2/3005/PNG/512/instagram_icon_188214.png" width="22px" alt="instagram-logo" />
+  <img align="" width="" alt="" />
 <a/>
   
 <a href="https://www.linkedin.com/in/rafael-rodrigo-inoc%C3%AAncio-a0b19869/">
